@@ -1,2 +1,2 @@
-# Pete-Thinkful
+# Pete-Thinkful by Victor G
 Project
